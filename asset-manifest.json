@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/gen_ai/static/css/main.df7235cf.css",
+    "main.js": "/gen_ai/static/js/main.16bac8b7.js",
+    "static/js/453.f7e4d7cf.chunk.js": "/gen_ai/static/js/453.f7e4d7cf.chunk.js",
+    "static/media/Cognizant-Logo.png": "/gen_ai/static/media/Cognizant-Logo.4fa1b6dd97fba5539c9e.png",
+    "static/media/Gellix-SemiBold.woff2": "/gen_ai/static/media/Gellix-SemiBold.3a408fd3c82e322e2594.woff2",
+    "static/media/Gellix-Regular.woff2": "/gen_ai/static/media/Gellix-Regular.741dbed99b42c013c4f5.woff2",
+    "index.html": "/gen_ai/index.html",
+    "main.df7235cf.css.map": "/gen_ai/static/css/main.df7235cf.css.map",
+    "main.16bac8b7.js.map": "/gen_ai/static/js/main.16bac8b7.js.map",
+    "453.f7e4d7cf.chunk.js.map": "/gen_ai/static/js/453.f7e4d7cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df7235cf.css",
+    "static/js/main.16bac8b7.js"
+  ]
+}
