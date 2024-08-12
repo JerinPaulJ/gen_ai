@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/gen_ai/static/css/main.fe387d8b.css",
-    "main.js": "/gen_ai/static/js/main.e78af32b.js",
-    "static/js/453.75fd4bff.chunk.js": "/gen_ai/static/js/453.75fd4bff.chunk.js",
+    "main.css": "/gen_ai/static/css/main.1e6b02c0.css",
+    "main.js": "/gen_ai/static/js/main.94892e49.js",
+    "static/js/453.f7e4d7cf.chunk.js": "/gen_ai/static/js/453.f7e4d7cf.chunk.js",
     "static/media/Cognizant-Logo.png": "/gen_ai/static/media/Cognizant-Logo.4fa1b6dd97fba5539c9e.png",
     "static/media/Gellix-SemiBold.woff2": "/gen_ai/static/media/Gellix-SemiBold.3a408fd3c82e322e2594.woff2",
     "static/media/Gellix-Regular.woff2": "/gen_ai/static/media/Gellix-Regular.741dbed99b42c013c4f5.woff2",
     "index.html": "/gen_ai/index.html",
-    "main.fe387d8b.css.map": "/gen_ai/static/css/main.fe387d8b.css.map",
-    "main.e78af32b.js.map": "/gen_ai/static/js/main.e78af32b.js.map",
-    "453.75fd4bff.chunk.js.map": "/gen_ai/static/js/453.75fd4bff.chunk.js.map"
+    "main.1e6b02c0.css.map": "/gen_ai/static/css/main.1e6b02c0.css.map",
+    "main.94892e49.js.map": "/gen_ai/static/js/main.94892e49.js.map",
+    "453.f7e4d7cf.chunk.js.map": "/gen_ai/static/js/453.f7e4d7cf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe387d8b.css",
-    "static/js/main.e78af32b.js"
+    "static/css/main.1e6b02c0.css",
+    "static/js/main.94892e49.js"
   ]
 }
